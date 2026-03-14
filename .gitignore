@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Chrome profile (contains session data)
+chrome_profile/
+
+# Logs and applied jobs
+*.log
+applied_jobs_*.txt
+
+# Personal config (contains passwords & personal info)
+config.py
+
+# Resume & personal docs
+*.pdf
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Profile config docs (personal)
+Rayees_Profile_Config*.md
