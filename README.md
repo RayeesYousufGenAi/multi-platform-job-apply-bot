@@ -14,6 +14,7 @@
   <a href="#quick-start">Quick Start</a> •
   <a href="#configuration">Configuration</a> •
   <a href="#architecture">Architecture</a> •
+  <a href="#sponsors--support">Sponsor</a> •
   <a href="#contributing">Contributing</a>
 </p>
 
@@ -22,6 +23,7 @@
   <img src="https://img.shields.io/badge/selenium-4.15+-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/platforms-5-FF6B6B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" />
+  <a href="https://github.com/sponsors/RayeesYousufGenAi"><img src="https://img.shields.io/badge/Sponsor-💖-ff69b4?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
@@ -229,6 +231,21 @@ After each session, the bot creates:
 2. **CAPTCHA handling** — If a CAPTCHA appears, solve it manually; the bot will wait.
 3. **Manual login required** — For security, log into each platform manually the first time. The persistent Chrome profile remembers sessions.
 4. **Use responsibly** — This tool is for personal job searching. Respect each platform's Terms of Service.
+
+---
+
+## 💖 Sponsors & Support
+
+Building and maintaining this multi-platform job application automation bot requires significant time, reverse-engineering, and effort. If this bot has helped you automate your job search and land interviews, please consider supporting the development!
+
+<p align="center">
+  <a href="https://github.com/sponsors/RayeesYousufGenAi">
+    <img src="https://img.shields.io/badge/Sponsor_Me_On_GitHub-💖-ff69b4?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://paypal.me/rayeesyousuf">
+    <img src="https://img.shields.io/badge/Donate_via_PayPal-💳-00457C?style=for-the-badge&logo=paypal" />
+  </a>
+</p>
 
 ---
 
